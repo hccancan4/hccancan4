@@ -21,7 +21,6 @@ I like building things that bridge theoretical science and practical engineering
 - **[microflow-studio](https://github.com/hccancan4/microflow-studio)** — Desktop app for **designing & simulating microfluidic chips**. Analytical (Hagen–Poiseuille) + 2D CFD (Chorin projection) solvers, Lua scripting, GDS-II export. Tauri v2 + Rust + React + Konva. *(Directly tied to my microfluidics research.)*
 - **[narrowmind-studio](https://github.com/hccancan4/narrowmind-studio)** — Open-source desktop IDE for building Domain-Specific Language Models (DSLMs) without training boilerplate. Tauri + Rust + Python monorepo orchestrating Unsloth, LlamaIndex, llama.cpp & HuggingFace. Runs on a single consumer GPU.
 - **[project-nous](https://github.com/hccancan4/project-nous)** — Bilingual (TR/EN) interactive philosophy **knowledge graph**. Next.js + React Flow + Supabase, with an RLS-friendly data architecture.
-- **[seemetric-web](https://github.com/hccancan4/seemetric-web)** — Landing site for an AI platform that analyzes amateur football matches. Next.js 15 + TypeScript + Tailwind, token-driven design system.
 - **[opamp-workshop](https://opamp-workshop.vercel.app/)** — Interactive, bilingual op-amp learning platform: live circuit simulator, waveform scope, theory & applications. React + TypeScript + Vite.
 
 ---
